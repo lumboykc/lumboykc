@@ -5,8 +5,7 @@
 <table>
 <tr>
 <td align="center" valign="middle">
-<!-- Replace the src link below with your own image URL or repository file path (e.g., ./assets/profile.png) -->
-<img src="https://images.unsplash.com/photo-1518709268805-4e9042af9f23?w=200&h=200&fit=crop&crop=faces" width="115" height="115" alt="Kate's Corner Aesthetic Photo" />
+<img src="./IMG_1966.jpeg" width="115" height="115" alt="Everything is under Ctrl" />
 </td>
 <td align="center" valign="middle">
 <img src="https://readme-typing-svg.demolab.com?font=Fraunces&weight=900&style=italic&size=42&pause=1000&color=4A6B53&center=true&vCenter=true&width=480&lines=Kate's+Corner+%F0%9F%8C%B7" alt="Kate's Corner Banner" />
@@ -19,11 +18,8 @@
 <img src="https://img.shields.io/badge/🌷_A_B_O_U_T_%20_M_E_🌷-D9EAD3?style=for-the-badge" alt="About Me" />
 <h2>Welcome to my space 🍀</h2>
 <p>
-
-  I’m a first-year IT student who enjoys going out, especially to coffee shops,
-
+  I’m a first-year IT student who enjoys going out, especially to coffee shops,<br/>
   and I’m comfortable working both on my own and with others.<br/>
-
   Right now, I’m still learning and continuously improving my coding skills, taking things one step at a time as I figure out what I enjoy most and build better habits along the way.
 </p>
 <sub><i>🪷 Always curious, always learning something new. 🌷</i></sub>
@@ -49,50 +45,34 @@
 <table>
 <tr>
 <td width="50%" valign="top">
-<p align="center">
-<img src="https://img.shields.io/badge/🧪%20MIDTERM-F5F0E6?style=for-the-badge&labelColor=5A7247" alt="Midterm" />
-</p>
+<p align="center"><img src="https://img.shields.io/badge/🧪%20MIDTERM-F5F0E6?style=for-the-badge&labelColor=5A7247" alt="Midterm" /></p>
 <p>
-
-        🌷 <a href="#link">Midterm Lab Task #1</a> - Midterm Lab Task 1. Using 2 Dimensional Array <br/><br/>
-
-        🌷 <a href="#link">Midterm Lab Task #2</a> - Midterm Lab Task 2. Using 3 Dimensional Array <br/><br/>
-
-        🌷 <a href="#link">Midterm Lab Task #3</a> - <br/><br/>
-
-        🌷 <a href="#link">Midterm Lab Task #4</a> - <br/><br/>
-
-        🌷 <a href="#link">Midterm Lab Task #5</a> - 
+🌷 <a href="#link">Midterm Lab Task #1</a> - Midterm Lab Task 1. Using 2 Dimensional Array<br/><br/>
+🌷 <a href="#link">Midterm Lab Task #2</a> - Midterm Lab Task 2. Using 3 Dimensional Array<br/><br/>
+🌷 <a href="#link">Midterm Lab Task #3</a> - <br/><br/>
+🌷 <a href="#link">Midterm Lab Task #4</a> - <br/><br/>
+🌷 <a href="#link">Midterm Lab Task #5</a> -
 </p>
 </td>
 <td width="50%" valign="top">
-<p align="center">
-<img src="https://img.shields.io/badge/🎓%20FINALS-F5F0E6?style=for-the-badge&labelColor=5A7247" alt="Finals" />
-</p>
+<p align="center"><img src="https://img.shields.io/badge/🎓%20FINALS-F5F0E6?style=for-the-badge&labelColor=5A7247" alt="Finals" /></p>
 <p>
-
-        🪷 <a href="#link">Final Lab Task #1</a> - <br/><br/>
-
-        🪷 <a href="#link">Final Lab Task #2</a> - <br/><br/>
-
-        🪷 <a href="#link">Final Lab Task #3</a> - <br/><br/>
-
-        🪷 <a href="#link">Final Lab Task #4</a> - <br/><br/>
-
-        🪷 <a href="#link">Final Lab Task #5</a> - <br/><br/>
-
-        🪷 <a href="#link">Final Lab Task #6</a> - 
+🪷 <a href="#link">Final Lab Task #1</a> - <br/><br/>
+🪷 <a href="#link">Final Lab Task #2</a> - <br/><br/>
+🪷 <a href="#link">Final Lab Task #3</a> - <br/><br/>
+🪷 <a href="#link">Final Lab Task #4</a> - <br/><br/>
+🪷 <a href="#link">Final Lab Task #5</a> - <br/><br/>
+🪷 <a href="#link">Final Lab Task #6</a> -
 </p>
 </td>
 </tr>
 </table>
 <br/>
-
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=D9EAD3&height=2" width="100%" />
+<br/><br/>
 <p>
 <sub>🌷🌿 Connect with me: <a href="https://github.com/yourusername">GitHub</a> • <a href="mailto:your.email@example.com">Email</a> 🌿🪷</sub>
 </p>
 <!-- Soft Sage Bottom Wave -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=D9EAD3&height=90&section=footer" width="100%" />
 </div>
- 
