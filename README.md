@@ -51,7 +51,7 @@
       <h3 align="center">🧪 MIDTERM</h3>
       <p>
         <a href="#link">Midterm Lab Task #1</a> -  Midterm Lab Task 1. Using 2 Dimensional Array  <br/><br/>
-        <a href="#link">Midterm Lab Task #2</a> - <br/><br/>
+        <a href="#link">Midterm Lab Task #2</a> -  Midterm Lab Task 2. Using 3 Dimensional Array  <br/><br/>
         <a href="#link">Midterm Lab Task #3</a> - <br/><br/>
         <a href="#link">Midterm Lab Task #4</a> - <br/><br/>
         <a href="#link">Midterm Lab Task #5</a> - 
