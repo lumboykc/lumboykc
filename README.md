@@ -50,7 +50,7 @@
 <td width="50%" valign="top">
 <p align="center"><img src="https://img.shields.io/badge/🧪%20MIDTERM-F5F0E6?style=for-the-badge&labelColor=5A7247" alt="Midterm" /></p>
 <p>
-🌷 <a href="#link">Midterm Lab Task #1</a> - Midterm Lab Task 1. Using 2 Dimensional Array<br/><br/>
+🌷 <a href="midterms/Laboratory task 2D - Lumboy, Kate Leyhan C. - ITE104.pdf">Midterm Lab Task #1</a> - Midterm Lab Task 1. Using 2 Dimensional Array<br/><br/>
 🌷 <a href="#link">Midterm Lab Task #2</a> - Midterm Lab Task 2. Using 3 Dimensional Array<br/><br/>
 🌷 <a href="#link">Midterm Lab Task #3</a> - <br/><br/>
 🌷 <a href="#link">Midterm Lab Task #4</a> - <br/><br/>
